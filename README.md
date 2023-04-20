@@ -10,9 +10,6 @@ View live project mvp: [link](https://brianmwevi.github.io/pataKeja/)
 2. Gift Kemunto - Frontend Developer
 3. Victor Makori - Frontend Developer
 4. Willbeckh Wandaka - Frontend Developer, documentation
-5. Khalid shafi - Frontend Developer
-6. Ryan Muema - Frontend Developer
-7. Stephen Makuol - Frontend Developer
 
 ## Technology stacks
 This project is created using: 
@@ -26,11 +23,11 @@ This project is created using:
 - 
  ## Setup
 To setup this project in your local machine.
-- clone this using `git clone https://github.com/BrianMwevi/pataKeja.git`
+- clone this using `git clone https://github.com/ndiranguW/pataKeja.git`
 - navigate to project directory `cd pataKeja`
 
 ### Known bugs
-Currently there's no known bugs, but if you catch any open an issue: [here](https://github.com/BrianMwevi/pataKeja/issues/new)
+Currently there's no known bugs, but if you catch any open an issue: [here](https://github.com/ndiranguW/pataKeja/issues/new)
 
 Or if you would like to contribute;
 
